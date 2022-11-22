@@ -1,0 +1,5 @@
+ORG 100H
+MOV AL, 20H
+MUL AL, 10H
+HLT
+ret
